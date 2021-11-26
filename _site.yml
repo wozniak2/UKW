@@ -1,0 +1,7 @@
+name: "personal-website"
+output_dir: "."
+navbar:
+  title: "Podstawy analizy danych z wykorzystaniem R"
+  left:
+    - text: "Home"
+      href: index.html
